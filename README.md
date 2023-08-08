@@ -1,6 +1,8 @@
+Fork by [Junyeong Son](https://github.com/sonstory)
+
 # Grad-CAM 알고리즘을 통한 반도체 웨이퍼 불량 분석 및 원인 분석
 - Technical Approach for Computing Trend Information & Convergence System Lab(TACTICS Lab)
-- 홍용민, 이현정, 김유림, `손준영`, 한상혁, 성시열, 김예린, *강성우
+- 홍용민, 이현정, 김유림, 손준영, 한상혁, `성시열`, 김예린, *강성우
 
 # Project
 - Grad-CAM 알고리즘을 통해 반도체 웨이퍼의 불량 패턴의 원인이 되는 주요 위치를 파악하여 주요 픽셀들만 남기고, 나머지 픽셀들을 제거하는 새로운 반도체 웨이퍼 빈 맵 디노이징 기법
